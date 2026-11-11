@@ -1,0 +1,8 @@
+# Boutique en ligne – API
+
+Projet de conception de serveur web (Node/Express, Sequelize, MySQL).
+
+## Modélisation
+
+- [Modèle entité-associations] https://lucid.app/lucidchart/2667b9c5-7c7c-4d09-bf21-c608c5e00040/edit?viewport_loc=-226%2C-55%2C1980%2C1048%2Cpage1&invitationId=inv_bc988c31-d974-41b9-8823-c962b0c8568f 
+- [Modèle physique] https://lucid.app/lucidchart/eb696eb6-4d46-46ca-ad8a-3e86025b7635/edit?viewport_loc=-313%2C-176%2C2427%2C1284%2Cpage1&invitationId=inv_e0c76167-79d5-4168-98f8-5295f5fe6bfd
